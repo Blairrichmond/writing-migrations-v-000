@@ -12,5 +12,6 @@ ActiveRecord::Base.connection.execute(sql)
   end
   
   def Change
-end
+    
+  end
 end
